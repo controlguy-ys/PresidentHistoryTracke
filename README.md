@@ -1,4 +1,10 @@
-# 대한민국 공약 추적 시스템 (Korea Promise Tracker)
+# Korea Promise Tracker (`대한민국 공약 추적 시스템`)
+
+[![React](https://img.shields.io/badge/Frontend-React_18_%2B_Tailwind_CSS-61DAFB)](#)
+[![Supabase](https://img.shields.io/badge/Backend-Supabase_PostgreSQL_(RLS_%2B_FTS)-3ECF8E)](#)
+[![Dataset](https://img.shields.io/badge/Dataset-254_Elected_Officials_%7C_7%2C414_Pledges-0082FC)](#)
+
+Full-stack civic data analytics web application for tracking, searching, and visualizing the fulfillment progress of **7,414 campaign pledges across 254 elected representatives and 17 metropolitan regions** in South Korea, backed by **React 18**, **Interactive SVG Geo-Mapping**, and **Supabase PostgreSQL** (with Row-Level Security and Full-Text Search).
 
 대한민국 국회의원 및 지자체장의 공약 이행 현황을 추적하고 시각화하는 웹 애플리케이션입니다.
 
